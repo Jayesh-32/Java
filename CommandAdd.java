@@ -1,4 +1,4 @@
-public class Eight  {
+public class CommandAdd  {
     public static void main(String args[]) {
       int s=0;
       for(int i=0;i<args.length;i++){
